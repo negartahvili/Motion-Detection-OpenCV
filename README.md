@@ -18,4 +18,3 @@ This project was developed as part of my **Digital Image Processing / Computer V
 2. Calculates the **delta frame** to find changes.
 3. Applies a **Threshold** to create a binary mask of the motion.
 4. Filters out small noise by setting a minimum contour area (500 pixels).
-5. 
